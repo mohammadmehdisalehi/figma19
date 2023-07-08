@@ -1,0 +1,53 @@
+.cnt
+{
+max-width:700px;                
+}
+.p1
+{
+top: 1rem;  
+left:2rem;  
+}
+.ph
+{
+ padding-right:24rem;   
+}
+.bgk
+{
+background-image:url(./img/Group\ 79.svg);
+width:400px;
+height:300px;
+background-repeat: no-repeat;
+}
+
+.pl
+{
+padding-right:2rem; 
+}
+.marg
+{
+margin-top:2rem ;
+margin-left: 5rem;
+}
+.mj
+{
+margin-top:-6rem;   
+margin-left: 2rem;
+}
+.mg
+{
+    margin-left: 8rem; 
+}
+.mk
+{
+ margin-left:4rem;   
+ margin-top:1rem;    
+}
+.cgf
+{
+color: gray;
+}
+.ml
+{
+  margin-left:10rem;
+  margin-top: 40rem;        
+}

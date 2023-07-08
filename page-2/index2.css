@@ -1,0 +1,41 @@
+.cnt
+{
+max-width:800px;                
+}
+.p1
+{
+top: 1rem;  
+left:2rem;  
+}
+.ph
+{
+ padding-right:24rem;   
+}
+.bgk
+{
+background-image:url(./img/Group\ 79.svg);
+width:400px;
+height:300px;
+background-repeat: no-repeat;
+}
+.cgf
+{
+  background-color:#B7B7B7DE ; 
+}
+.w-c1
+{ 
+width:4rem;
+}
+.pl
+{
+padding-right:2rem; 
+}
+.hei1
+{
+height:1.8rem;
+}
+.mn1
+{ 
+ margin-top:-6rem;  
+ margin-left:22rem; 
+}
