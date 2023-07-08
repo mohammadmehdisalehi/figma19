@@ -1,0 +1,59 @@
+.cnt
+{
+max-width:800px;                
+}
+.p1
+{
+top: 1rem;  
+left:2rem;  
+}
+.ph
+{
+ padding-right:24rem;   
+}
+.bgk
+{
+background-image:url(../img/Group\ 79.svg);
+width:400px;
+height:300px;
+background-repeat: no-repeat;
+}
+.mr
+{
+    margin-left:-1.4rem;
+}
+.pl
+{
+padding-right:2rem; 
+}
+.ml2
+{
+    margin-left: 7.75rem;
+}
+.mn2
+{
+  margin-top: -1rem;  
+  margin-left: 1.2rem;
+}
+.border-c
+{
+    border-right: 0;
+    border-top: 0;
+    border-left: 0;
+    border-bottom: 0.1rem;
+    border-style:solid;
+    border-color:gray;
+}
+.cgf
+{
+    color: gray;
+}
+.ct
+{
+ border: 0;   
+}
+.mc2
+{
+    margin-left: 18rem;
+    margin-top: -4rem;
+}
