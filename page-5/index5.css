@@ -30,3 +30,38 @@ padding-right:2rem;
 {
     margin-left: 7.75rem;
 }
+.mx6{
+margin-left: 13rem;
+}
+.mal{
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+}
+.co{
+    color: #666666;
+    font-size: small;
+    margin-top: -.5rem;
+}
+.jojo1{
+    width: 7rem;
+    height: 10rem;
+    background-color: #FB6F6F;
+    border-radius: 1rem;
+}
+.jojo2{
+    width: 7rem;
+    height: 10rem;
+    background-color:#34B5FD;
+    border-radius: 1rem;
+}
+.jojo3{
+    width: 7rem;
+    height: 10rem;
+    background-color:#4BC0BB;
+    border-radius: 1rem;
+}
+.fff{
+    font-size: 12px;
+    color: white;
+    margin-top: -.5rem;
+}
