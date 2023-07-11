@@ -71,8 +71,9 @@ height:1.8rem;
 .line {
   display: block;
   height: 1.8px;
-  width: 40%;
+  width: 45%;
   background-color: rgb(177, 177, 173);
+  margin-left: .3rem;
 }
 
 .form {
