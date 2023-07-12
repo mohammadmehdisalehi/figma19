@@ -1,1 +1,105 @@
+.cnt
+{
+max-width:800px;                
+}
+.p1
+{
+top: 1rem;  
+left:2rem;  
+}
+.ph
+{
+ padding-right:24rem;   
+}
+.bgk
+{
+background-image:url(./img/Group\ 79.svg);
+width:400px;
+height:300px;
+background-repeat: no-repeat;
+}
+.cgf
+{
+  background-color:#B7B7B7DE ; 
+}
+.w-c1
+{ 
+width:4rem;
+}
+.pl
+{
+padding-right:2rem; 
+}
+.hei1
+{
+height:1.8rem;
+}
+.mn1
+{ 
+ margin-top:-6rem;  
+ margin-left:22rem; 
+}
 
+.pic-2 {
+    display: block;
+    margin-left: 6rem;
+    margin-top: 3.5rem;
+}
+
+.input {
+  height: 3rem;
+  width: 23rem;
+  border-color: #DADADA;
+  border-radius: 0.5rem;
+  text-align: center;
+}
+
+.input-1 {
+  font-size: .8rem;
+}
+
+.input-2 {
+  font-size: 1.2rem;
+}
+
+.OR {
+  margin-top: -1rem;
+  margin-bottom: 3rem;
+  margin-right: 26.5rem;
+}
+
+.line {
+  display: block;
+  height: 1.8px;
+  width: 45%;
+  background-color: rgb(177, 177, 173);
+  margin-left: .3rem;
+}
+
+.form {
+  margin-left: 1.6rem;
+}
+
+.input-3 {
+  margin-top: -2rem;
+  font-size: 1.2rem;
+  color: black;
+}
+
+.group-form {
+  height: 3rem;
+  width: 10rem;
+  text-align: center;
+}
+
+.txt {
+  margin-top: 6rem;
+}
+
+.text {
+  color: #666666;
+}
+
+.text-1 {
+  margin-left: 2.6rem;
+}
