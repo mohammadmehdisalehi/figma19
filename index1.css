@@ -1,0 +1,54 @@
+.cnt
+{
+max-width:800px;                
+}
+.p1
+{
+top: 1rem;  
+left:2rem;  
+}
+.ph
+{
+ padding-right:24rem;   
+}
+.bgk
+{
+background-image:url(./img/Group\ 79.svg);
+width:400px;
+height:300px;
+background-repeat: no-repeat;
+}
+
+.pl
+{
+padding-right:2rem; 
+}
+
+.img-1 {
+   margin-left: 5.5rem;
+}
+
+.text-txt {
+    margin-left: 7.5rem;
+}
+
+.paragraph {
+    line-height: 2rem;
+    text-align: center;
+    margin-right: 22rem;
+    color: #888888;
+}
+
+.btn-1 {
+    background-color: #57C3BE;
+    border: none;
+    color: #FFFF;
+    width: 25rem;
+    height: 2.5rem;
+    margin-left: 2.3rem;
+    margin-top: 2rem;
+    margin-bottom: 6rem;
+}
+
+
+
